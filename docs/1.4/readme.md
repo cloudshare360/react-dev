@@ -36,9 +36,23 @@ where we included Good morning!/Good Evening
 Convert Good Morning/Good Evening into a Greeting Component
 
 then we import and display in App Component
-![Creating a new File Greeting.js](image-9.png)
-
-Re-doing the command to create a reactjs app
-
 
 npx create-react-app my-react-app --use-npm
+![Creating a new File Greeting.js](image-9.png)
+
+
+Creating New File Greeting.js
+
+![Creating Greeting Component in Greeting.js](image-10.png)
+
+ * define a function Greeting
+ * return the JSX String or the variable
+ * import React from 'react';
+ * export Greeting Component using ``` export default Greeting; ```
+
+ In App.js
+
+ ![Importing Greeting Component](image-11.png)
+
+ import Greeting from './Greeting';
+
