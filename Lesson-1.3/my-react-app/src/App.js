@@ -7,7 +7,8 @@ function App() {
                         <h3> Good Morning! </h3>
                         : <h3> Good Evening! </h3>
 
-  let adjective  = "cool"
+  let adjective  = "cool";
+  let url = "https://reactjs.org";
   return (
     <div className="App">
       <header className="App-header">
@@ -19,7 +20,7 @@ function App() {
           </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href={url}
           target="_blank"
           rel="noopener noreferrer"
         >

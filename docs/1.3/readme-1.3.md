@@ -32,3 +32,7 @@ just to create app in Lession-1.3 folder
    ![inserting variable in jsx page](image-9.png)
 
    ![App with Good Evening! or Good Morning! Based on your time](image-10.png)
+
+   ![alt text](image-11.png)
+
+   ![Defining variable URL and replacing ](image-12.png)
