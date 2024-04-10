@@ -5,4 +5,12 @@ Git references - source code
  https://github.com/shaunwa/learn-react-livelessons.
 
 
-[ReactJS Basic Syntax](docs/image-01.png)
+![Learn Basics](image.png)
+![What is about React](docks/image-1.png)
+
+![Why React?](image-2.png)
+
+![React uses Modular Components to increase code base reuse
+](image-3.png)
+
+![React is written in JavaScript](image-4.png)
