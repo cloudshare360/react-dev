@@ -18,4 +18,6 @@ npx create-react-app my-react-app --use-npm
 <Greeting name="Shaun" noOfMessages={5}>
 ![Greeting](image-4.png)
 
-
+![Destructing Props](image-6.png)
+![Destructing Props by specifying at Greeting params](image-7.png)
+![Passing Obect to React Component ](image-8.png)

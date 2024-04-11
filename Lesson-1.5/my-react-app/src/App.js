@@ -1,7 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
-import { Greeting } from './Greeting'
+//import { Greeting } from './Greeting-Destructure-Props'
+import { Greeting } from './Greeting-Destructure-PropsWithAttributes'
 
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <Greeting name="Shaun" numberOfMessages="5" />
+        <Greeting name="Shaun" numberOfMessages={100} />
         <a
           className="App-link"
           href="https://reactjs.org"
