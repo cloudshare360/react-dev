@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import Greeting  from './Greeting';
+//import Greeting  from './GreetingWithDefaultExports';
+//import { Greeting }  from './GreetingWithExportsAtFunction';
+import { GreetingShortter }  from './GreetingWithExportsAtFunctionArrayFunctionSyntaxShorterVersion';
 
 function App() {
  
@@ -11,7 +13,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-       <Greeting/>
+       <GreetingShortter/>
         </p>
         <p> This is so {adjective} 
           </p>

@@ -56,3 +56,42 @@ Creating New File Greeting.js
 
  import Greeting from './Greeting';
 
+ ![Showcasing Greeting Component](image-12.png)
+ * Every JSX Component can only return only one top level element
+
+
+![Example Showcasing Greeting Component is retuning one top level element](image-13.png)
+
+![Show casing Dev Tag](image-14.png)
+
+if we using React Fragments, one can avoid extra div tag
+
+![React Fragment ](image-15.png)
+![Shorter Version of React Fragment](image-16.png)
+
+![Showing with React Fragment with out having extra Div tag](image-17.png)
+
+
+![Moving from Defaults Exports to export at function level](image-18.png)
+
+![Changing the Import in App ](image-19.png)
+
+``` import { Greeting } from './Greeting';
+
+It is recomment to use 
+``` import { Greeting } from './Greeting';
+In this case Greeting Component Name is retained and incase if u want to find and replace occurances of the Greeting Component, we will have option to find and replace it
+
+instead of 
+``` import GreetingMessage from './Greeting';
+    since in above we are changing the name of Greeting Component to GreetingMessage; 
+
+![alt text](image-20.png)
+
+![Converting into Greeting into Array Functin](image-21.png)
+
+
+Lesson-1.4/my-react-app/src/GreetingWithExportsAtFunction.js
+![Short form of Greeting Component](image-22.png)
+
+![Shorter Version](image-23.png)
