@@ -5,5 +5,8 @@ docs/1.1/readme1.1.md
  ## [Lesson 1.3](./docs/1.3/readme-1.3.md#lession1.3)
  ## [Lesson 1.4](./docs/1.4/readme-1.4.md#lession1.4)
 
+for all react 
+
+sri.reactdev@gmail.com
 
 
