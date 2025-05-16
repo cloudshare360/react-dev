@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+
+.component-border {
+  border: 2px solid red;
+  padding: 10px; /* Optional: gives some spacing inside the border */
+}
